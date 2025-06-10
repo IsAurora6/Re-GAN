@@ -1,0 +1,25 @@
+# 虚拟环境
+venv/
+env/
+.venv/
+__pycache__/
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# 打包文件
+dist/
+build/
+*.egg-info/
+
+# 编辑器和 IDE 相关文件
+.idea/
+.vscode/
+*.iml
+
+# 缓存文件
+.cache/
